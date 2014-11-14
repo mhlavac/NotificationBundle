@@ -1,0 +1,3 @@
+services:
+    mh.notification_container:
+        class: MH\NotificationBundle\NotificationCollectorContainer
